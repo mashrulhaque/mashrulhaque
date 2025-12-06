@@ -50,24 +50,6 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mashrulhaque&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mashrulhaque&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashrulhaque&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mashrulhaque&theme=tokyonight" alt="Top Languages by Repo" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mashrulhaque&theme=tokyonight" alt="Top Languages by Commit" height="165" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-EasyAppDev.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://EasyAppDev.com)
