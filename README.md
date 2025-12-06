@@ -58,7 +58,11 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [dotnet run in .NET 10: Single-File C# Is Finally Here](https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi)
+- [10 SQL Server Performance Mistakes That Will Destroy Your Database &lpar;And How to Fix Them&rpar;](https://dev.to/mashrulhaque/why-was-your-query-fast-yesterday-10-sql-server-performance-killers-4n0f)
+- [Blazor in .NET 10: What&#39;s New and Why It Finally Feels Complete](https://dev.to/mashrulhaque/blazor-in-net-10-the-features-that-actually-matter-nc1)
+- [How to Structure a .NET Solution That Actually Scales: Clean Architecture Guide](https://dev.to/mashrulhaque/how-to-design-a-maintainable-net-solution-structure-for-growing-teams-284n)
+- [10 Common .NET Logging Mistakes That Hurt Production Debugging &lpar;And How to Fix Them&rpar;](https://dev.to/mashrulhaque/10-common-net-logging-mistakes-and-how-to-avoid-them-for-maintainable-apps-33i9)<!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more articles on dev.to](https://dev.to/mashrulhaque)
 
