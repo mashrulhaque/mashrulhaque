@@ -55,9 +55,19 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 
 ---
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶️ [...more articles on dev.to](https://dev.to/mashrulhaque)
+
+---
+
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-EasyAppDev.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://EasyAppDev.com)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mashrulhaque)
 [![Twitter](https://img.shields.io/badge/Twitter-@mashrulthunder-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mashrulthunder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mashrulhaque)
 
