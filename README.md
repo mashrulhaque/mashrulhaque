@@ -21,11 +21,11 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Performance: How the Query Optimizer Really Works](https://dev.to/mashrulhaque/sql-server-performance-how-the-query-optimizer-really-works-15b5)
 - [.NET Performance Optimization: Fixing a 15-Second E-Commerce Page Load](https://dev.to/mashrulhaque/net-performance-optimization-fixing-a-15-second-e-commerce-page-load-46nm)
 - [Why Software Developers Are Their Own Worst Enemies](https://dev.to/mashrulhaque/why-software-developers-are-their-own-worst-enemies-bcp)
 - [Aspire: The Cloud-Native Framework That Finally Makes Distributed .NET Development Easy](https://dev.to/mashrulhaque/its-4-pm-and-your-microservices-still-wont-start-a-guide-to-net-aspire-4h7b)
-- [Blazor vs React: A .NET Developer&#39;s Honest Comparison](https://dev.to/mashrulhaque/blazor-vs-react-a-net-developers-honest-comparison-59lk)
-- [dotnet run in .NET 10: Single-File C# Is Finally Here](https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi)<!-- BLOG-POST-LIST:END -->
+- [Blazor vs React: A .NET Developer&#39;s Honest Comparison](https://dev.to/mashrulhaque/blazor-vs-react-a-net-developers-honest-comparison-59lk)<!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more articles on dev.to](https://dev.to/mashrulhaque)
 
