@@ -21,11 +21,11 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blazor AutoComplete That Actually Scales: From 10 Items to 100K &lpar;with AI Superpowers&rpar;](https://dev.to/mashrulhaque/blazor-autocomplete-that-actually-scales-from-10-items-to-100k-with-ai-superpowers-2f5f)
 - [Stop Paying OpenAI: Free Local AI in .NET with Ollama](https://dev.to/mashrulhaque/stop-paying-openai-free-local-ai-in-net-with-ollama-50k8)
 - [SQL Server Performance: How the Query Optimizer Really Works](https://dev.to/mashrulhaque/sql-server-performance-how-the-query-optimizer-really-works-15b5)
 - [.NET Performance Optimization: Fixing a 15-Second E-Commerce Page Load](https://dev.to/mashrulhaque/net-performance-optimization-fixing-a-15-second-e-commerce-page-load-46nm)
-- [Why Software Developers Are Their Own Worst Enemies](https://dev.to/mashrulhaque/why-software-developers-are-their-own-worst-enemies-bcp)
-- [Aspire: The Cloud-Native Framework That Finally Makes Distributed .NET Development Easy](https://dev.to/mashrulhaque/its-4-pm-and-your-microservices-still-wont-start-a-guide-to-net-aspire-4h7b)<!-- BLOG-POST-LIST:END -->
+- [Why Software Developers Are Their Own Worst Enemies](https://dev.to/mashrulhaque/why-software-developers-are-their-own-worst-enemies-bcp)<!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more articles on dev.to](https://dev.to/mashrulhaque)
 
