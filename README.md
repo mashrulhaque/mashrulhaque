@@ -21,11 +21,11 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Read SQL Server Execution Plans: 7 Things That Matter](https://dev.to/mashrulhaque/how-to-read-sql-server-execution-plans-7-things-that-matter-3pnm)
 - [Build AI Agents with Microsoft Agent Framework in C#](https://dev.to/mashrulhaque/build-ai-agents-with-microsoft-agent-framework-in-c-46h0)
 - [2026 Developer Predictions: Why Coding Gets Better](https://dev.to/mashrulhaque/2026-developer-predictions-why-coding-gets-better-4hpl)
 - [Blazor AutoComplete That Actually Scales: From 10 Items to 100K &lpar;with AI Superpowers&rpar;](https://dev.to/mashrulhaque/blazor-autocomplete-that-actually-scales-from-10-items-to-100k-with-ai-superpowers-2f5f)
-- [Stop Paying OpenAI: Free Local AI in .NET with Ollama](https://dev.to/mashrulhaque/stop-paying-openai-free-local-ai-in-net-with-ollama-50k8)
-- [SQL Server Performance: How the Query Optimizer Really Works](https://dev.to/mashrulhaque/sql-server-performance-how-the-query-optimizer-really-works-15b5)<!-- BLOG-POST-LIST:END -->
+- [Stop Paying OpenAI: Free Local AI in .NET with Ollama](https://dev.to/mashrulhaque/stop-paying-openai-free-local-ai-in-net-with-ollama-50k8)<!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more articles on dev.to](https://dev.to/mashrulhaque)
 
