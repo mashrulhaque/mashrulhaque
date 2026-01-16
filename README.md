@@ -15,6 +15,7 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -37,6 +38,7 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 
 | Package | Description | Stars |
 |---------|-------------|-------|
+| [**FireBlazor**](https://github.com/mashrulhaque/FireBlazor) | Firebase SDK for Blazor WebAssembly - Auth, Firestore, Storage, Realtime DB, App Check & Gemini AI | ![Stars](https://img.shields.io/github/stars/mashrulhaque/FireBlazor?style=flat-square) |
 | [**EasyAppDev.Blazor.Store**](https://github.com/mashrulhaque/EasyAppDev.Blazor.Store) | Type-safe state management for Blazor using C# records. Redux DevTools, persistence & granular selectors. | ![Stars](https://img.shields.io/github/stars/mashrulhaque/EasyAppDev.Blazor.Store?style=flat-square) |
 | [**EasyAppDev.Blazor.AutoComplete**](https://github.com/mashrulhaque/EasyAppDev.Blazor.AutoComplete) | High-performance AutoComplete with AI-powered semantic search | ![Stars](https://img.shields.io/github/stars/mashrulhaque/EasyAppDev.Blazor.AutoComplete?style=flat-square) |
 | [**EasyAppDev.Blazor.Icons**](https://github.com/mashrulhaque/EasyAppDev.Blazor.Icons) | Fully trimmable icon library with 11,000+ SVG icons (Lucide, Bootstrap, Material) | ![Stars](https://img.shields.io/github/stars/mashrulhaque/EasyAppDev.Blazor.Icons?style=flat-square) |
