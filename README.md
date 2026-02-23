@@ -22,11 +22,11 @@ Building powerful, developer-friendly tools for the Blazor ecosystem.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Worktrees for AI Coding: Run Multiple Agents in Parallel](https://dev.to/mashrulhaque/git-worktrees-for-ai-coding-run-multiple-agents-in-parallel-3pgb)
 - [After the Compiler Writes Itself: The Human Skills That Still Matter](https://dev.to/mashrulhaque/after-the-compiler-writes-itself-the-human-skills-that-still-matter-387o)
 - [SQL Server Indexes Explained: Column Order, INCLUDE, and the Mistakes That Taught Me](https://dev.to/mashrulhaque/sql-server-indexes-explained-column-order-include-and-the-mistakes-that-taught-me-3h9b)
 - [Server-Sent Events in .NET 10: Finally, a Native Solution](https://dev.to/mashrulhaque/server-sent-events-in-net-10-finally-a-native-solution-22kg)
-- [How to Read SQL Server Execution Plans: 7 Things That Matter](https://dev.to/mashrulhaque/how-to-read-sql-server-execution-plans-7-things-that-matter-3pnm)
-- [Build AI Agents with Microsoft Agent Framework in C#](https://dev.to/mashrulhaque/build-ai-agents-with-microsoft-agent-framework-in-c-46h0)<!-- BLOG-POST-LIST:END -->
+- [How to Read SQL Server Execution Plans: 7 Things That Matter](https://dev.to/mashrulhaque/how-to-read-sql-server-execution-plans-7-things-that-matter-3pnm)<!-- BLOG-POST-LIST:END -->
 
 ▶️ [...more articles on dev.to](https://dev.to/mashrulhaque)
 
